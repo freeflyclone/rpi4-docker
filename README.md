@@ -1,8 +1,13 @@
 # rpi4-docker
+The purpose of this project is to facilitate mastery with Docker and Visual Studio Code as the IDE for cross-compiling for aarch64 ARM processors, working on an x86-64 based Linux host.
+
+Folks who are interested in a software toolkit with marketable practical value and available for the minor cost of a little bit of focused effort will hopefully find this useful.
+
 - Docker container.
 - Intended host: Ubuntu 20.04 (VMware guest)
 - Intended purpose: Cross-compiler support for Raspberry Pi 4 64-bit development.
   - Value add: support Visual Studio Code as GUI
     - Build invocation
-    - Launch build artefact with debugger
+    - Launch build artifact with debugger
     - Remote source debugging with gdb backend
+    - git facilitator (maybe)
