@@ -10,6 +10,7 @@ Folks who are interested in a software toolkit with marketable practical value a
     - Build invocation
     - Launch build artifact with debugger
     - Remote source debugging with gdb backend
+    - NFS & PXE boot for targets that support it
     - Support for Linux, freertos, bare-metal (u-boot) on target
     - Minimal deployment effort for this environment
     - git facilitator (maybe)
