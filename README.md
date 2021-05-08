@@ -12,6 +12,9 @@ Folks who are interested in a software toolkit with marketable practical value a
     - Remote source debugging with gdb backend
     - git facilitator (maybe)
 
-## Ubuntu 20.04 Host AMD64 ##
+## Ubuntu 20.04 AMD64 Host ##
 Download [Ubuntu 20.04 Desktop (AMD64)](https://releases.ubuntu.com/20.04.2.0/ubuntu-20.04.2.0-desktop-amd64.iso) from Canonical 
+- Install this image as a bootable OS, however you prefer to do that.  I'm using a VMWare Player guest install, but a native boot shold work too.  That's sorta the point with Docker.
+
+### Install Docker ###
 
