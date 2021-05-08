@@ -11,3 +11,5 @@ Folks who are interested in a software toolkit with marketable practical value a
     - Launch build artifact with debugger
     - Remote source debugging with gdb backend
     - git facilitator (maybe)
+
+== Ubuntu 20.04 Host AMD64 ==
