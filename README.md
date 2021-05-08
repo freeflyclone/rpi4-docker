@@ -15,11 +15,12 @@ Folks who are interested in a software toolkit with marketable practical value a
 ## Ubuntu 20.04 AMD64 Host ##
 Download [Ubuntu 20.04 Desktop (AMD64)](https://releases.ubuntu.com/20.04.2.0/ubuntu-20.04.2.0-desktop-amd64.iso) from Canonical 
 - Install this image as a bootable OS, however you prefer to do that.  I'm using a VMWare Player guest install, but a native boot shold work too.  That's sorta the point with Docker.
+
+Install some prerequisites:
+
     sudo apt install gnome-terminal
-
-    `sudo apt-get install apt-transport-https ca-certificates curl gnupg lsb-release $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null`
-
-    `sudo apt-get install docker-ce docker-ce-cli containerd.io`
+    sudo apt-get install apt-transport-https ca-certificates curl gnupg lsb-release $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+    sudo apt-get install docker-ce docker-ce-cli containerd.io
 
 ### Install Docker ###
 
