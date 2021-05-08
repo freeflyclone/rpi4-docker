@@ -12,4 +12,6 @@ Folks who are interested in a software toolkit with marketable practical value a
     - Remote source debugging with gdb backend
     - git facilitator (maybe)
 
-== Ubuntu 20.04 Host AMD64 ==
+## Ubuntu 20.04 Host AMD64 ##
+Download from Canonical [this file](https://releases.ubuntu.com/20.04.2.0/ubuntu-20.04.2.0-desktop-amd64.iso)
+
