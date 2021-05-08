@@ -20,7 +20,8 @@ Download [Ubuntu 20.04 Desktop (AMD64)](https://releases.ubuntu.com/20.04.2.0/ub
 
     sudo apt install gnome-terminal
     sudo apt-get install apt-transport-https ca-certificates curl gnupg lsb-release $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
-    sudo apt-get install docker-ce docker-ce-cli containerd.io
 
-** Install Docker **
+**Install Docker**
+
+    sudo apt-get install docker-ce docker-ce-cli containerd.io
 
