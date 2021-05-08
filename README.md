@@ -14,7 +14,7 @@ Folks who are interested in a software toolkit with marketable practical value a
 
 ### Useful Links ###
 
--[Jens Depuydt's guide](https://jensd.be/1126/linux/cross-compiling-for-arm-or-aarch64-on-debian-or-ubuntu) to installing the cross compilation tools.
+- [Jens Depuydt's guide](https://jensd.be/1126/linux/cross-compiling-for-arm-or-aarch64-on-debian-or-ubuntu) to installing the cross compilation tools.
 
 ### Ubuntu 20.04 AMD64 Host ###
 Download [Ubuntu 20.04 Desktop (AMD64)](https://releases.ubuntu.com/20.04.2.0/ubuntu-20.04.2.0-desktop-amd64.iso) from Canonical 
